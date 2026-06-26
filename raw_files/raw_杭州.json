@@ -1,0 +1,8 @@
+{
+  "city_code": "101210101",
+  "city_name": "杭州",
+  "temp_max": 32,
+  "temp_min": 22,
+  "weather": "晴",
+  "useless_column": "冗余文本"
+}
